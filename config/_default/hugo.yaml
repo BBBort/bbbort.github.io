@@ -10,7 +10,7 @@ enableRobotsTXT: true
 enableGitInfo: true
 enableEmoji: true
 
-defaultContentLanguage: en
+defaultContentLanguage: nl
 languages:
   en:
     languageName: English
@@ -32,7 +32,7 @@ params:
       path: logo/BortBortBort-logo-colour.png
       dark: logo/BortBortBort-logo-darkmode.png
       link: /
-      width: 100
+      width: 100 
       height: 100
 
   theme:
@@ -47,7 +47,7 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
     width: normal
 
     displayUpdatedDate: true
@@ -56,3 +56,10 @@ params:
   search:
     enable: false
     type: flexsearch
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false

@@ -1,0 +1,16 @@
+main:
+  - name: Who am I?
+    pageRef: /karel
+    weight: 1
+  - name: Portfolio
+    pageRef: /portfolio
+    weight: 2
+  - name: Contact
+    pageRef: /contact
+    weight: 3
+  - name: BoardGameGeek
+    weight: 5
+    url: "https://boardgamegeek.com/boardgamedesigner/136907/karel-titeca"
+    params:
+      icon: bgg
+
