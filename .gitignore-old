@@ -1,7 +1,0 @@
-.DS_Store
-.hugo_build.lock
-resources
-public/
-sandbox/
-bbbort.sublime-project
-bbbort.sublime-workspace
