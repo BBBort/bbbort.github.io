@@ -6,7 +6,7 @@ title: 'About me'
 
 My name is Karel and I am in love with board games since the early 80s, and I have been *completely obsessed* with board games since the board game revival of the early 2000s.
 
-My first “new” game was the cooperative Lord of the Rings game by Reiner Knizia in 2001. Then I bought the then completely unknown game 'Carcassone' and I liked it. Then Machiavelli and from then on my girlfriend (now my wife) and I regularly visited Speelgoed Mertens in Kessel-Lo to buy a new game.
+My first “new” game was the cooperative Lord of the Rings game by Reiner Knizia in 2001. Then I bought the then completely unknown game 'Carcassone' and I liked it. Then Citadels and from then on my girlfriend (now my wife) and I regularly visited our local board game store to buy a new game.
 
 25 years later I have more than 300 games, and I freaking *love* the hobby.
 
