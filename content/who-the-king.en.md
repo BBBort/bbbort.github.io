@@ -1,5 +1,5 @@
 ---
-title: 'Who''s the King'
+title: 'Who''s the King?'
 ---
 
 I don't have much to share about **Who's the King?** yet. :smile:
