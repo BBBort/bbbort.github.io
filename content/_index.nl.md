@@ -9,7 +9,7 @@ title: ''
 
 {{< cards cols="2" >}}
   {{< card link="/" title="Nederlands" icon="translate" >}}
-  {{< card link="/" title="English" icon="translate" >}}
+  {{< card link="/en" title="English" icon="translate" >}}
 {{< /cards >}}
 
 <img src="people/gameplay.svg" width="500" alt="Mensen die een spel spelen">

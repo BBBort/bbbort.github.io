@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-01-11T20:26:41+01:00</lastmod>
+    <lastmod>2025-01-12T14:23:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -16,6 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/karel/</loc>
+    <lastmod>2025-01-12T14:23:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -40,6 +41,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/contact/</loc>
+    <lastmod>2025-01-12T14:23:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -52,6 +54,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/contraptions/</loc>
+    <lastmod>2025-01-12T14:23:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
@@ -64,6 +67,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/portfolio/</loc>
+    <lastmod>2025-01-12T14:23:42+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"

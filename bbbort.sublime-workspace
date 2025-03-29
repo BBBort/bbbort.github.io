@@ -8,13 +8,60 @@
 	"buffers":
 	[
 		{
-			"contents": ".DS_Store\n.hugo_build.lock\nresources\npublic/\nsandbox/\nbbbort.sublime-project\nbbbort.sublime-workspace",
-			"file": ".gitignore",
-			"file_size": 101,
-			"file_write_time": 133810641473034953,
+			"file": "content/_index.en.md",
 			"settings":
 			{
-				"buffer_size": 101,
+				"buffer_size": 71,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAAzAAAAAAAAAAYAAABqb2Vsb2U",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "BortBortB"
+					},
+					"CQAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAAAAAAAAAC4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "ort"
+					},
+					"AwAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " English"
+					},
+					"CAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA6AAAAAAAAADoAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "config/_default/menu.nl.yaml",
+			"settings":
+			{
+				"buffer_size": 425,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -23,112 +70,52 @@
 				[
 					3,
 					1,
-					"paste",
-					null,
-					"AQAAAAsAAAAAAAAANwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"right_delete",
-					null,
-					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"right_delete",
-					null,
-					"AQAAAC0AAAAAAAAALQAAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					11,
-					1,
 					"insert",
 					{
 						"characters": "\n"
 					},
-					"AQAAADUAAAAAAAAANgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAAAA"
+					"AgAAAKcBAAAAAAAAqAEAAAAAAAAAAAAAqAEAAAAAAACuAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACnAQAAAAAAAKcBAAAAAAAAAAAAAAAA8L8"
 				],
 				[
-					14,
+					4,
 					1,
-					"insert",
-					{
-						"characters": "bbo"
-					},
-					"AwAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					15,
-					1,
-					"left_delete",
+					"paste",
 					null,
-					"AQAAADgAAAAAAAAAOAAAAAAAAAABAAAAbw",
-					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+					"AQAAAK4BAAAAAAAAIQIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACuAQAAAAAAAK4BAAAAAAAAAAAAAAAA8L8"
 				],
 				[
-					16,
-					1,
-					"insert",
-					{
-						"characters": "bort.sublim"
-					},
-					"CwAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+					7,
+					3,
+					"right_delete",
+					null,
+					"AwAAAKgBAAAAAAAAqAEAAAAAAAACAAAAICCoAQAAAAAAAKgBAAAAAAAAAgAAACAgqAEAAAAAAACoAQAAAAAAAAIAAAAgIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoAQAAAAAAAKgBAAAAAAAAAAAAAAAA8L8"
 				],
 				[
-					17,
+					9,
 					1,
-					"insert",
-					{
-						"characters": "e-project"
-					},
-					"CQAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+					"unindent",
+					null,
+					"BQAAAKgBAAAAAAAAqAEAAAAAAAACAAAAICC5AQAAAAAAALkBAAAAAAAAAgAAACAgxwEAAAAAAADHAQAAAAAAAAIAAAAgIPMBAAAAAAAA8wEAAAAAAAACAAAAICD/AQAAAAAAAP8BAAAAAAAAAgAAACAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoAQAAAAAAABwCAAAAAAAAAAAAAAAAAAA"
 				],
 				[
 					18,
 					1,
-					"insert",
-					{
-						"characters": "\nbbbort"
-					},
-					"BwAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					19,
-					1,
-					"insert",
-					{
-						"characters": ".sublime-wo"
-					},
-					"CwAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					20,
-					1,
-					"insert",
-					{
-						"characters": "rkspace"
-					},
-					"BwAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+					"right_delete",
+					null,
+					"AQAAAKkBAAAAAAAAqQEAAAAAAABqAAAAIC0gbmFtZTogR2l0SHViCiAgICB3ZWlnaHQ6IDYKICAgIHVybDogImh0dHBzOi8vZ2l0aHViLmNvbS9pbWZpbmcvaGV4dHJhIgogICAgcGFyYW1zOgogICAgICBpY29uOiBnaXRodWIKCg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACpAQAAAAAAABMCAAAAAAAAAAAAAAAAJEA"
 				]
 			]
 		},
 		{
-			"file": "hugo.toml",
+			"file": "i18n/nl.yaml",
 			"settings":
 			{
-				"buffer_size": 84,
+				"buffer_size": 104,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -139,40 +126,40 @@
 					1,
 					"insert",
 					{
-						"characters": "bbbort."
+						"characters": "&copy;"
 					},
-					"CAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUAAAAAAAAAAsAAABleGFtcGxlLm9yZxQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAEwAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+					"BwAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANAAAAAAAAAAsAAAA6Y29weXJpZ2h0Og0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAMAAAAAAAAABcAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "content/_index.nl.md",
+			"settings":
+			{
+				"buffer_size": 1526,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAPYFAAAAAAAA9wUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD2BQAAAAAAAPYFAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					6,
 					1,
-					"insert",
-					{
-						"characters": "github.io"
-					},
-					"CQAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					13,
-					1,
-					"insert",
-					{
-						"characters": "BortBortBor"
-					},
-					"DAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABHAAAAAAAAABAAAABNeSBOZXcgSHVnbyBTaXRlRwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAVgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					14,
-					1,
-					"insert",
-					{
-						"characters": "t"
-					},
-					"AQAAAFEAAAAAAAAAUgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+					"left_delete",
+					null,
+					"AQAAAPYFAAAAAAAA9gUAAAAAAAABAAAAZA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD3BQAAAAAAAPcFAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
@@ -222,20 +209,52 @@
 	"expanded_folders":
 	[
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io",
-		"/Users/karel/Documents/Data/Sites/bbbort.github.io/archetypes",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/.github",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/assets",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/assets/css",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/data",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/i18n",
-		"/Users/karel/Documents/Data/Sites/bbbort.github.io/layouts"
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/layouts",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/layouts/partials",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/layouts/partials/custom"
 	],
 	"file_history":
 	[
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/i18n/en.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/data/icons.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/assets/css/custom.css",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/hugo.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/_index.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/menu.en.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/i18n/nl.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/layouts/partials/custom/head-end.html",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/menu.nl.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/contact.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/_index.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/contraptions.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/contact.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/contraptions.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/karel.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/karel.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/portfolio.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/portfolio.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/layouts/partials/custom/footer.html",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/.gitignore",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/menu.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/_index.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/privacy.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/.github/workflows/pages.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/public/site.webmanifest",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/menu.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/hugo.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/hugo.toml",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/data/settings.yaml",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config.yaml",
 		"/Users/karel/Library/CloudStorage/OneDrive-Persoonlijk/BortBortBort/Aankopen/Sublime Text/license.txt",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/module.toml",
-		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/_index.md",
 		"/Users/karel/Documents/Data/Sites/acme-corporation/hugo.yaml",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/config.toml",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/languages.nl.toml",
@@ -245,8 +264,6 @@
 		"/Users/karel/Documents/Data/Sites/acme-corporation/static/index.css",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/privacy.toml",
 		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/module.yaml",
-		"/Users/karel/Documents/Data/Sites/bbbort.github.io/hugo.yaml",
-		"/Users/karel/Documents/Data/Sites/bbbort.github.io/hugo.toml",
 		"/Users/karel/Desktop/quickstart/content/posts/my-first-post.md",
 		"/Users/karel/Desktop/split/caves.txt",
 		"/Users/karel/Desktop/split/dragons.txt",
@@ -310,7 +327,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -347,24 +364,84 @@
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "content/_index.en.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 101,
+						"buffer_size": 71,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38,
-								38
+								71,
+								71
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/_default/menu.nl.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "i18n/nl.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -375,26 +452,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "hugo.toml",
+					"buffer": 3,
+					"file": "content/_index.nl.md",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 84,
+						"buffer_size": 1526,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								82,
-								82
+								1526,
+								1526
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/TOML/TOML.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
