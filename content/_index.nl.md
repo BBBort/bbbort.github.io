@@ -8,11 +8,11 @@ title: ''
 <h2>Grafisch ontwerp voor bordspellen<br>Bordspelontwikkeling en solo-ontwerp</h2>
 
 {{< cards cols="2" >}}
-  {{< card link="/" title="Nederlands" icon="translate" >}}
+  {{< card link="/nl" title="Nederlands" icon="translate" >}}
   {{< card link="/en" title="English" icon="translate" >}}
 {{< /cards >}}
 
-<img src="people/gameplay.svg" width="500" alt="Mensen die een spel spelen">
+<img src="/people/gameplay.svg" width="500" alt="Mensen die een spel spelen">
 
 Hoi, ik ben **Karel Titeca** en ik ben gepassioneerd door bordspellen. Ik speel ze al sinds mijn kindertijd, heb al honderden spellen gespeeld, en ik ben al enkele jaren actief achter de schermen in de borspelwereld, onder andere bij _Stonemaier Games_, een toonaangevende Amerikaanse bordspeluitgever. [Meer achtergrondinfo vind je in mijn bio](/karel).
 

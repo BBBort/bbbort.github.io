@@ -1,4 +1,4 @@
-baseURL: https://bbbort.github.io/
+baseURL: https://bortbortbort.be/
 languageCode: en-us
 title: BortBortBort
 
@@ -10,7 +10,7 @@ enableRobotsTXT: true
 enableGitInfo: true
 enableEmoji: true
 
-defaultContentLanguage: nl
+defaultContentLanguage: en
 languages:
   en:
     languageName: English

@@ -1,10 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BortBortBort – BortBortBort</title>
+    <title>BortBortBort – </title>
     <link>http://localhost:1313/nl/</link>
     <description>Recent content on BortBortBort</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
+    <lastBuildDate>Sat, 11 Jan 2025 16:36:01 +0100</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/nl/index.xml" rel="self" type="application/rss+xml" />
     
